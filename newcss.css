@@ -1,0 +1,75 @@
+.header {
+  background-image: url(./KE-en-20230206-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+}
+h1,
+h2,
+h3 {
+  color: white;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px 0px 20px;
+}
+.top button {
+  height: 50px;
+  border-radius: 50px;
+  width: max-content;
+  font-size: 14px;
+  margin-top: 25px;
+}
+.middle {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 75px, 0px, 75px;
+  margin-top: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.6 rem;
+}
+
+button {
+  background-color: red;
+  border: none;
+  color: white;
+}
+
+body {
+  background: black;
+  color: white;
+}
+middle h1 h2 h3 {
+  margin: 20px;
+  color: white;
+}
+.main .middle hr {
+  font-size: 3 rem
+  height: 10px;
+  padding-top: 0px;
+}
+h2,
+h3,
+h4,
+h5 {
+  width: 700px;
+  height: 50px;
+  background-color: grey;
+}
+
+.last page p {
+  width: 700px;
+  background-color: rgb(141, 134, 134);
+  
+}
+last page {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 150px;
+  border:40px;
+
+}
+
